@@ -1,5 +1,3 @@
-[[_TOC_]]
-
 # DSA & Leetcode
 
 This repository exists as I want to expand my knowledge in DSA & get better at leetcode.
